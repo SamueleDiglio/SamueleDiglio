@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Hi! I'm Samuele and I'm 17 years old. I'm a CS student based in Turin, Italy.</p>
+<p align="left">Portfolio: <a href="dig.samu07@gmail.com" target="_blank"> https://samuele-diglio.netlify.app/ </a> </p>
 
 ###
 
