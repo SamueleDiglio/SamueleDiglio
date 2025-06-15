@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my <a href="https://samuele-diglio.netlify.app/">portfolio website</a><br>📚 I'm currently learning JS and React<br>🎯 Goals: become a skilled developer<br>👯 I’m looking to collaborate on simple projects to help me learn something new</p>
+<p align="left">🔭 I’m currently working on a music tracking application!📚 I'm currently learning JS and React<br>🎯 Goals: become a skilled developer<br>👯 I’m looking to collaborate on simple projects to help me learn something new</p>
 
 ###
 
